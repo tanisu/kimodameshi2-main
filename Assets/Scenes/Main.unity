@@ -13263,9 +13263,9 @@ Camera:
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
-    y: 0
+    y: 0.13054189
     width: 1
-    height: 1
+    height: 0.7389162
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -13299,7 +13299,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   targetCamera: {fileID: 519420031}
-  aspectVec: {x: 720, y: 1280}
+  aspectVec: {x: 800, y: 1280}
 --- !u!114 &519420033
 MonoBehaviour:
   m_ObjectHideFlags: 0
